@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\bin\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.exe
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\bin\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.deps.json
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\bin\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\bin\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.dll
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\bin\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.pdb
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.dll
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\refint\DotNetTrainingBatch5.ConsoleApp.dll
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.pdb
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\DotNetTrainingBatch5.ConsoleApp.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.ConsoleApp\obj\Debug\net7.0\ref\DotNetTrainingBatch5.ConsoleApp.dll
