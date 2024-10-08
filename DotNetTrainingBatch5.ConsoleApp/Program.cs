@@ -7,5 +7,7 @@ Console.WriteLine("Hello, Myanmar Pyi Ka Lu Twy!");
 
 AdoDotNet ado = new AdoDotNet();
 // ado.Create();
-ado.Read();
+// ado.Read();
+// ado.Edit();
+ado.Update();
 Console.ReadKey();
