@@ -15,5 +15,9 @@ AdoDotNet ado = new AdoDotNet();
 
 DapperExample dapperExample = new DapperExample();
 
-dapperExample.Create("Oppa Wunna", "Wunna", "Wunna is on fire");
+// dapperExample.Create("ကိုယ်ကျင့်တရားကောင်းဖို့", "ဆရာတော်ဘုရား", "ကိုယ်လဲ ပဲ ကြိုးပမ်းအားထုတ်ရမယ်");
+// dapperExample.Create("တရားဓမ္မနဲ့မွေ့လျော်နေ", "ဆရာတော်ဘုရား", "ဆရာတော်ဘုရားက အမှာတော်ကြား");
+
+dapperExample.Update(3, "တရားဒေသနာ", "ဆရာတော်ဘုရား", "ဆုံးမတော်မူပေထ");
+
 Console.ReadKey();

@@ -60,7 +60,8 @@ public class DapperExample
                 BlogId = id
             }).FirstOrDefault();
 
-            if(item is null) {
+            if (item is null)
+            {
                 Console.WriteLine("No data found");
                 return;
             }
@@ -69,6 +70,28 @@ public class DapperExample
             Console.WriteLine(item.BlogTitle);
             Console.WriteLine(item.BlogAuthor);
             Console.WriteLine(item.BlogContent);
+        }
+    }
+
+    public void Update(int id, string title, string author, string content)
+    {
+        using (IDbConnection db = new SqlConnection(_connectionString))
+        {
+            string query = $@"UPDATE [dbo].[Tbl_Blog]
+             SET [BlogTitle] = @BlogTitle
+                ,[BlogAuthor] = @BlogAuthor
+                ,[BlogContent] = @BlogContent
+                ,[DeleteFlag] = 0
+                WHERE BlogId = @BlogId";
+
+            var item = db.Execute(query, new BlogDataModel
+            {
+                BlogId = id,
+                BlogTitle = title,
+                BlogAuthor = author,
+                BlogContent = content
+            });
+            Console.WriteLine(item == 1 ? "Update Successful" : "Update Failed");
         }
     }
 
