@@ -95,4 +95,18 @@ public class DapperExample
         }
     }
 
+    public void Delete(int id)
+    {
+        using (IDbConnection db = new SqlConnection(_connectionString))
+        {
+            string query = $@"UPDATE Tbl_Blog SET DeleteFlag = 1 WHERE BlogId = @BlogId";
+
+            var result = db.Execute(query, new BlogDataModel
+            {
+                BlogId = id
+            });
+            Console.WriteLine(result == 1 ? "Delete Successful" : "Delete Failed");
+        }
+    }
+
 }
