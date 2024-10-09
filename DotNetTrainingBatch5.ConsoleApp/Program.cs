@@ -2,6 +2,7 @@
 using System.Data;
 using System.Data.SqlClient;
 using AdoDotNetExample;
+using DotNetTrainingBatch5.ConsoleApp;
 using DotNetTrainingBatch5.ConsoleApp.DapperExample;
 
 Console.WriteLine("Hello, Myanmar Pyi Ka Lu Twy!");
@@ -19,6 +20,8 @@ DapperExample dapperExample = new DapperExample();
 // dapperExample.Create("တရားဓမ္မနဲ့မွေ့လျော်နေ", "ဆရာတော်ဘုရား", "ဆရာတော်ဘုရားက အမှာတော်ကြား");
 
 // dapperExample.Update(3, "တရားဒေသနာ", "ဆရာတော်ဘုရား", "ဆုံးမတော်မူပေထ");
-dapperExample.Delete(1);
+// dapperExample.Delete(1);
+EFCoreExample efCoreExample = new EFCoreExample();
+efCoreExample.Read();
 
 Console.ReadKey();
