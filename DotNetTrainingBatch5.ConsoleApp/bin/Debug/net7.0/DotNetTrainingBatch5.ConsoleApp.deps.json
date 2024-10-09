@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v7.0": {
       "DotNetTrainingBatch5.ConsoleApp/1.0.0": {
         "dependencies": {
+          "Dapper": "2.1.35",
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
           "DotNetTrainingBatch5.ConsoleApp.dll": {}
+        }
+      },
+      "Dapper/2.1.35": {
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.35.13827"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
@@ -96,6 +105,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Dapper/2.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "path": "dapper/2.1.35",
+      "hashPath": "dapper.2.1.35.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "type": "package",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1a/yCqyXG0QHShxxfCmkptMtHnLxVhA0dbxHE0/yUa0d/4eMW6n847b1tpDilHChkbaB2jgnP6tM4YES1Eanw==",
+  "dgSpecHash": "d3/vt77QCtS7pdr7Bztuj1ZZc6fiXRzJqR4fYAAvzEtV1VsosThlVbqemwt2h0kV/4E07e/oz43b8B4jAYIqKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DapperExample\\DapperExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DapperExample\\DapperExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
-        "projectName": "DotNetTrainingBatch5.ConsoleApp",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DapperExample\\DapperExample.csproj",
+        "projectName": "DapperExample",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DapperExample\\DapperExample.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DapperExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,16 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.1.35, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
