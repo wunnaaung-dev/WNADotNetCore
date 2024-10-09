@@ -9,5 +9,6 @@ AdoDotNet ado = new AdoDotNet();
 // ado.Create();
 // ado.Read();
 // ado.Edit();
-ado.Update();
+// ado.Update();
+ado.Delete();
 Console.ReadKey();

@@ -129,4 +129,21 @@ public class AdoDotNet
         connection.Close();
         Console.WriteLine(result == 1 ? "Updating Successful" : "Updating Failed");
     }
+
+    public void Delete() {
+        Console.WriteLine("Enter the BlogId you want to delete: ");
+        string id = Console.ReadLine();
+        SqlConnection connection = new SqlConnection(_connectionString);
+        connection.Open();
+        string query = $@"UPDATE Tbl_Blog SET DeleteFlag = 1 WHERE BlogId = @BlogId";
+
+        SqlCommand cmd = new SqlCommand(query, connection);
+        cmd.Parameters.AddWithValue("@BlogId", id);
+
+        int result = cmd.ExecuteNonQuery();
+        connection.Close();
+        Console.WriteLine(result == 1 ? "Deleting Successful" : "Deleting Failed");
+    }
+
+
 }
