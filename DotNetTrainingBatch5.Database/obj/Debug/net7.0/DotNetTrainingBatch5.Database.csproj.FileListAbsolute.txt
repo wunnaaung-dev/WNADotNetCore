@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\bin\Debug\net7.0\DotNetTrainingBatch5.Database.deps.json
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\bin\Debug\net7.0\DotNetTrainingBatch5.Database.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\bin\Debug\net7.0\DotNetTrainingBatch5.Database.dll
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\bin\Debug\net7.0\DotNetTrainingBatch5.Database.pdb
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.dll
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\refint\DotNetTrainingBatch5.Database.dll
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.pdb
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\DotNetTrainingBatch5.Database.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CSharp\DotNetTrainingBatch5.Database\obj\Debug\net7.0\ref\DotNetTrainingBatch5.Database.dll

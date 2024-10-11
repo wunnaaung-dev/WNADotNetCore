@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch5.ConsoleApp", "DotNetTrainingBatch5.ConsoleApp\DotNetTrainingBatch5.ConsoleApp.csproj", "{9E13A96C-AB45-4DA4-B5CB-A61DA305906D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch5.Database", "DotNetTrainingBatch5.Database\DotNetTrainingBatch5.Database.csproj", "{2E2C4E52-5813-44C3-8B70-26345A12B375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch5.ConsoleApp2", "DotNetTrainingBatch5.ConsoleApp2\DotNetTrainingBatch5.ConsoleApp2.csproj", "{0CF0097C-98B9-4AE4-A2C7-4352C4863E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9E13A96C-AB45-4DA4-B5CB-A61DA305906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E13A96C-AB45-4DA4-B5CB-A61DA305906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E13A96C-AB45-4DA4-B5CB-A61DA305906D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2C4E52-5813-44C3-8B70-26345A12B375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2C4E52-5813-44C3-8B70-26345A12B375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2C4E52-5813-44C3-8B70-26345A12B375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2C4E52-5813-44C3-8B70-26345A12B375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF0097C-98B9-4AE4-A2C7-4352C4863E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF0097C-98B9-4AE4-A2C7-4352C4863E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF0097C-98B9-4AE4-A2C7-4352C4863E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF0097C-98B9-4AE4-A2C7-4352C4863E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
