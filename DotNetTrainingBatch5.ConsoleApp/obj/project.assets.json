@@ -3428,24 +3428,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\LOQ GAMING\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\LOQ GAMING\\source\\repos\\WNADotNetCore\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
       "projectName": "DotNetTrainingBatch5.ConsoleApp",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\CSharp\\DotNetTrainingBatch5.ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\LOQ GAMING\\source\\repos\\WNADotNetCore\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\LOQ GAMING\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LOQ GAMING\\Source\\Repos\\WNADotNetCore\\DotNetTrainingBatch5.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LOQ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3458,6 +3461,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3497,7 +3505,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
