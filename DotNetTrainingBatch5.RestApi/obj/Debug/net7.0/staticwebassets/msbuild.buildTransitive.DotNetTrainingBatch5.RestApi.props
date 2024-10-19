@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DotNetTrainingBatch5.RestApi.props" />
+</Project>

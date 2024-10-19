@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yXN/tDZXwk/CrBG5b7VkFhq8/wxHgQGEeOgUYJ4Od9A=",
+  "Source": "DotNetTrainingBatch5.RestApi",
+  "BasePath": "_content/DotNetTrainingBatch5.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
