@@ -1,0 +1,15 @@
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\bin\Debug\net7.0\ToDoListDb.deps.json
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\bin\Debug\net7.0\ToDoListDb.runtimeconfig.json
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\bin\Debug\net7.0\ToDoListDb.dll
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\bin\Debug\net7.0\ToDoListDb.pdb
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.csproj.AssemblyReference.cache
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.AssemblyInfoInputs.cache
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.AssemblyInfo.cs
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.csproj.CoreCompileInputs.cache
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.sourcelink.json
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.dll
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\refint\ToDoListDb.dll
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.pdb
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ToDoListDb.genruntimeconfig.cache
+C:\Users\LOQ GAMING\source\repos\WNADotNetCore\ToDoListDb\obj\Debug\net7.0\ref\ToDoListDb.dll
