@@ -1108,6 +1108,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Dapper": "2.1.35",
           "System.Data.SqlClient": "4.8.6"
         },
         "compile": {

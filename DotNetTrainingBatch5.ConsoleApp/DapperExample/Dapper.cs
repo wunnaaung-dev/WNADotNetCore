@@ -24,8 +24,7 @@ public class DapperExample
             }
         }
     }
-
-    public void Create(string title, string author, string content)
+  public void Create(string title, string author, string content)
     {
         string query = @"INSERT INTO [dbo].[Tbl_Blog]
            ([BlogTitle]
@@ -49,6 +48,7 @@ public class DapperExample
             Console.WriteLine(result == 1 ? "Insert Successful" : "Insert Failed");
         }
     }
+  
 
     public void Edit(int id)
     {
