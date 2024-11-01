@@ -1103,6 +1103,19 @@
             "rid": "win"
           }
         }
+      },
+      "DotNetTrainingBatch5.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.6"
+        },
+        "compile": {
+          "bin/placeholder/DotNetTrainingBatch5.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DotNetTrainingBatch5.Shared.dll": {}
+        }
       }
     }
   },
@@ -3417,11 +3430,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DotNetTrainingBatch5.Shared/1.0.0": {
+      "type": "project",
+      "path": "../DotNetTrainingBatch5.Shared/DotNetTrainingBatch5.Shared.csproj",
+      "msbuildProject": "../DotNetTrainingBatch5.Shared/DotNetTrainingBatch5.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Dapper >= 2.1.35",
+      "DotNetTrainingBatch5.Shared >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
       "System.Data.SqlClient >= 4.8.6"
@@ -3437,7 +3456,7 @@
       "projectName": "DotNetTrainingBatch5.ConsoleApp",
       "projectPath": "C:\\Users\\LOQ GAMING\\source\\repos\\WNADotNetCore\\DotNetTrainingBatch5.ConsoleApp\\DotNetTrainingBatch5.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\LOQ GAMING\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LOQ GAMING\\Source\\Repos\\WNADotNetCore\\DotNetTrainingBatch5.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\LOQ GAMING\\source\\repos\\WNADotNetCore\\DotNetTrainingBatch5.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LOQ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3454,7 +3473,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\LOQ GAMING\\source\\repos\\WNADotNetCore\\DotNetTrainingBatch5.Shared\\DotNetTrainingBatch5.Shared.csproj": {
+              "projectPath": "C:\\Users\\LOQ GAMING\\source\\repos\\WNADotNetCore\\DotNetTrainingBatch5.Shared\\DotNetTrainingBatch5.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
