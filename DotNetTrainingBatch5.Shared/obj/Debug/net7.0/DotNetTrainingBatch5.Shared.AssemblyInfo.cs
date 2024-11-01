@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetTrainingBatch5.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cb8066f78d4d773af0663defa20f232d1d97a36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273e54fa63ca700e651d4f6aed95d8300608606d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetTrainingBatch5.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetTrainingBatch5.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
