@@ -24,10 +24,13 @@ AdoDotNet ado = new AdoDotNet();
 //EFCoreExample efCoreExample = new EFCoreExample();
 //efCoreExample.Read();
 
-DapperConnection dapperConnection = new DapperConnection();
+//DapperConnection dapperConnection = new DapperConnection();
 //dapperConnection.Read();
 //dapperConnection.Create("ကိုယ်ကျင့်တရားကောင်းဖို့", "ဆရာတော်ဘုရား", "ကိုယ်လဲ ပဲ ကြိုးပမ်းအားထုတ်ရမယ်");
 //dapperConnection.Edit(2);
 //dapperConnection.Update(1, "Hee Hee", "Lil Z", "ae kg hee hee har har lote");
-dapperConnection.Delete(2);
+//dapperConnection.Delete(2);
+
+EFCoreExample efCoreExample = new EFCoreExample();
+efCoreExample.Create("Morning", "Oppa Wunna Aung", "Saw Saw Hta Pee Sar Lote");
 Console.ReadKey();
