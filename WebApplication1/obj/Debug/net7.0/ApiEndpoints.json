@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "DotNetTrainingBatch5.JSON_MinimalAPI.Endpoints.BayarSarEndpoint.BayarSarEndpont\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBayarSarEndPoint\u003Eb__0_0",
+    "RelativePath": "api/bayarsar",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Get BayarSar"
+  },
+  {
+    "ContainingType": "DotNetTrainingBatch5.JSON_MinimalAPI.Endpoints.BayarSarEndpoint.BayarSarEndpont\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBayarSarEndPoint\u003Eb__0_2",
+    "RelativePath": "api/bayarsar",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newData",
+        "Type": "DotNetTrainingBatch5.JSON_MinimalAPI.DataHelper.BayarSarDataHelper\u002BTbl_Bayarsar",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Create New BayarSar"
+  },
+  {
+    "ContainingType": "DotNetTrainingBatch5.JSON_MinimalAPI.Endpoints.BayarSarEndpoint.BayarSarEndpont\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBayarSarEndPoint\u003Eb__0_1",
+    "RelativePath": "api/bayarsar/{id}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Get BayarSar with id"
+  },
+  {
+    "ContainingType": "DotNetTrainingBatch5.JSON_MinimalAPI.Endpoints.BayarSarEndpoint.BayarSarEndpont\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBayarSarEndPoint\u003Eb__0_3",
+    "RelativePath": "api/bayarsar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedData",
+        "Type": "DotNetTrainingBatch5.JSON_MinimalAPI.DataHelper.BayarSarDataHelper\u002BTbl_Bayarsar",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Update BayarSar"
+  },
+  {
+    "ContainingType": "DotNetTrainingBatch5.JSON_MinimalAPI.Endpoints.BayarSarEndpoint.BayarSarEndpont\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBayarSarEndPoint\u003Eb__0_4",
+    "RelativePath": "api/bayarsar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Delete BayarSar"
+  }
+]
