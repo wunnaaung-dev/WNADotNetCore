@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WNADotNetCore.MiniKpay.API.props" />
+</Project>

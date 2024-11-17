@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WNADotNetCore.MiniKpay.API.props" />
+</Project>

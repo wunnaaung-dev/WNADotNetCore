@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6BypNeacaeLBQUdQ+GXfZiqA+mw7Yazqswlmh4N54y8=",
+  "Source": "WNADotNetCore.MiniKpay.API",
+  "BasePath": "_content/WNADotNetCore.MiniKpay.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
