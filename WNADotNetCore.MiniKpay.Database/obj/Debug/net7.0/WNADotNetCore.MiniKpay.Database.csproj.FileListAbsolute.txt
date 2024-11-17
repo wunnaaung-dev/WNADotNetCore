@@ -1,0 +1,15 @@
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Database.deps.json
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Database.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Database.pdb
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.AssemblyInfoInputs.cache
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.AssemblyInfo.cs
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.csproj.CoreCompileInputs.cache
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.sourcelink.json
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\refint\WNADotNetCore.MiniKpay.Database.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.pdb
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\ref\WNADotNetCore.MiniKpay.Database.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Database.runtimeconfig.json
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.csproj.AssemblyReference.cache
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Database\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Database.genruntimeconfig.cache

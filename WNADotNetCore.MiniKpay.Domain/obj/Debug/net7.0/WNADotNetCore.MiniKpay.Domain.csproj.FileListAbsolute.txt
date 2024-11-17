@@ -1,0 +1,16 @@
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.deps.json
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.pdb
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Database.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\bin\Debug\net7.0\WNADotNetCore.MiniKpay.Database.pdb
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.csproj.AssemblyReference.cache
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.AssemblyInfoInputs.cache
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.AssemblyInfo.cs
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.sourcelink.json
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNe.E3051671.Up2Date
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\refint\WNADotNetCore.MiniKpay.Domain.dll
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\WNADotNetCore.MiniKpay.Domain.pdb
+C:\Users\LOQ GAMING\Source\Repos\WNADotNetCore2\WNADotNetCore.MiniKpay.Domain\obj\Debug\net7.0\ref\WNADotNetCore.MiniKpay.Domain.dll
