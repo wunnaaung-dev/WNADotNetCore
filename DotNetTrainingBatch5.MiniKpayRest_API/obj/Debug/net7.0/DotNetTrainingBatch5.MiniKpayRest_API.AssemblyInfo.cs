@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetTrainingBatch5.MiniKpayRest_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39f63fccbe350e4a4f2ae599266594dbabb23e26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2592ff78e4d72c5c40be02224f98519255182f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetTrainingBatch5.MiniKpayRest_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetTrainingBatch5.MiniKpayRest_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

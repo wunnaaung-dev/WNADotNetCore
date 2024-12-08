@@ -11,9 +11,9 @@ namespace WNADotNetCore.MiniKpay.API.Controllers
     {
         private readonly UserService _service;
 
-        public UserServiceController()
+        public UserServiceController(UserService service)
         {
-            _service = new UserService();
+            _service = service;
         }
 
         [HttpGet]

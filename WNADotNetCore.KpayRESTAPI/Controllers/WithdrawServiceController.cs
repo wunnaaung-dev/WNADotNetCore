@@ -13,11 +13,12 @@ namespace WNADotNetCore.MiniKpay.API.Controllers
         private readonly WithdrawService _withdrawService;
         private readonly UserService _userService;
 
-        public WithdrawServiceController()
+        public WithdrawServiceController(WithdrawService withdrawService, UserService userService)
         {
-            _withdrawService = new WithdrawService();
-            _userService = new UserService();
+            _withdrawService = withdrawService;
+            _userService = userService;
         }
+
 
         [HttpGet]
         public IActionResult GetWithdraw()
