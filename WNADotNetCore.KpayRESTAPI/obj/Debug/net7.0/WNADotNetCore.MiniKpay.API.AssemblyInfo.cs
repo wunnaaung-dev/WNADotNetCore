@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WNADotNetCore.MiniKpay.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d372c38a4a55d6c3cdf12f26fd18c744f45fc0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c42a449ba9532cb843b0af8bc7e4cd40d70b526")]
 [assembly: System.Reflection.AssemblyProductAttribute("WNADotNetCore.MiniKpay.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WNADotNetCore.MiniKpay.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

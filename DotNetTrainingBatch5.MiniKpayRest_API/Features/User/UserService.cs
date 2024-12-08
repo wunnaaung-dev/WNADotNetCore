@@ -41,25 +41,26 @@ namespace DotNetTrainingBatch5.MiniKpayRest_API.Features.User
             return person;
         }
 
-        public TblUser IncreaseUserBalance(int id, decimal balance)
+        public bool IsBalanceSufficient(decimal balance, decimal amount)
+        {
+            return balance > amount ? true : false;
+        }
+
+        public TblUser IncreaseUserBalance(int id, decimal amount)
         {
             var person = _db.TblUsers.AsNoTracking().FirstOrDefault(x => x.UserId == id);
             if (person is null)
             {
                 return null;
             }
-
-            if(balance > 0)
-            {
-                person.Balance += balance;
-            }
+            person.Balance += amount;
 
             _db.Entry(person).State = EntityState.Modified;
             _db.SaveChanges();
             return person;
         }
 
-        public TblUser DecreaseUserBalance(int id, decimal balance)
+        public TblUser DecreaseUserBalance(int id, decimal amount)
         {
             var person = _db.TblUsers.AsNoTracking().FirstOrDefault(x => x.UserId == id);
             if (person is null)
@@ -67,9 +68,14 @@ namespace DotNetTrainingBatch5.MiniKpayRest_API.Features.User
                 return null;
             }
 
-            if (balance > 0)
+            var result = IsBalanceSufficient(person.Balance, amount);
+
+            if (result)
             {
-                person.Balance -= balance;
+                person.Balance -= amount;
+            } else
+            {
+                throw new Exception("Insufficient balance");
             }
 
             _db.Entry(person).State = EntityState.Modified;
@@ -83,7 +89,7 @@ namespace DotNetTrainingBatch5.MiniKpayRest_API.Features.User
             return user;
         }
 
-        public bool DeleteUser(int id)
+        public bool DeactivateUser(int id)
         {
             var person = _db.TblUsers.AsNoTracking().FirstOrDefault(x => x.UserId == id);
             if (person is null)

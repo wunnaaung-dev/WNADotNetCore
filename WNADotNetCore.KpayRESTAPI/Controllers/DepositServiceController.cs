@@ -14,10 +14,10 @@ namespace WNADotNetCore.MiniKpay.API.Controllers
         private readonly DepositService _depositService;
         private readonly UserService _userService;
 
-        public DepositServiceController()
+        public DepositServiceController(DepositService depositService, UserService userService)
         {
-            _depositService = new DepositService();
-            _userService = new UserService();
+            _depositService = depositService;
+            _userService = userService;
         }
 
         [HttpGet]

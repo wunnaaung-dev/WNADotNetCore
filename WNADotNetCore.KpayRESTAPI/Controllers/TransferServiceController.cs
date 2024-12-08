@@ -12,9 +12,9 @@ namespace WNADotNetCore.MiniKpay.API.Controllers
     {
         private readonly TransferService _service;
 
-        public TransferServiceController()
+        public TransferServiceController(TransferService service)
         {
-            _service = new TransferService();
+            _service = service;
         }
 
         [HttpPost]

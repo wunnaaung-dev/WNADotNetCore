@@ -9,7 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetTrainingBatch5.Databa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetTrainingBatch5.ConsoleApp2", "DotNetTrainingBatch5.ConsoleApp2\DotNetTrainingBatch5.ConsoleApp2.csproj", "{0CF0097C-98B9-4AE4-A2C7-4352C4863E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch5.JSON_MinimalAPI", "WebApplication1\DotNetTrainingBatch5.JSON_MinimalAPI.csproj", "{FEE369C5-D12F-4872-A7C3-DA89A6226E34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetTrainingBatch5.JSON_MinimalAPI", "WebApplication1\DotNetTrainingBatch5.JSON_MinimalAPI.csproj", "{FEE369C5-D12F-4872-A7C3-DA89A6226E34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetTrainingBatch5.MiniKpayRest_API", "DotNetTrainingBatch5.MiniKpayRest_API\DotNetTrainingBatch5.MiniKpayRest_API.csproj", "{65CB2B8F-1F80-41CA-AE23-21B9076E3401}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WNADotNetCore.MiniKpay.API", "WNADotNetCore.KpayRESTAPI\WNADotNetCore.MiniKpay.API.csproj", "{267FD162-1F47-4FAA-9AD4-6576D61E4FCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WNADotNetCore.MiniKpay.Database", "WNADotNetCore.MiniKpay.Database\WNADotNetCore.MiniKpay.Database.csproj", "{AB6B372E-7D21-4333-8D4A-7D4D1211B320}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WNADotNetCore.MiniKpay.Domain", "WNADotNetCore.MiniKpay.Domain\WNADotNetCore.MiniKpay.Domain.csproj", "{2877D257-AD66-4942-A21E-E8ACE7A52911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch5.ConsoleApp3", "DotNetTrainingBatch5.ConsoleApp3\DotNetTrainingBatch5.ConsoleApp3.csproj", "{BA4351CE-7C9C-47DB-80C9-934D313E99CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{FEE369C5-D12F-4872-A7C3-DA89A6226E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE369C5-D12F-4872-A7C3-DA89A6226E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE369C5-D12F-4872-A7C3-DA89A6226E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CB2B8F-1F80-41CA-AE23-21B9076E3401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CB2B8F-1F80-41CA-AE23-21B9076E3401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CB2B8F-1F80-41CA-AE23-21B9076E3401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CB2B8F-1F80-41CA-AE23-21B9076E3401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267FD162-1F47-4FAA-9AD4-6576D61E4FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267FD162-1F47-4FAA-9AD4-6576D61E4FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267FD162-1F47-4FAA-9AD4-6576D61E4FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267FD162-1F47-4FAA-9AD4-6576D61E4FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6B372E-7D21-4333-8D4A-7D4D1211B320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6B372E-7D21-4333-8D4A-7D4D1211B320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6B372E-7D21-4333-8D4A-7D4D1211B320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6B372E-7D21-4333-8D4A-7D4D1211B320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2877D257-AD66-4942-A21E-E8ACE7A52911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2877D257-AD66-4942-A21E-E8ACE7A52911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2877D257-AD66-4942-A21E-E8ACE7A52911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2877D257-AD66-4942-A21E-E8ACE7A52911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4351CE-7C9C-47DB-80C9-934D313E99CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4351CE-7C9C-47DB-80C9-934D313E99CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4351CE-7C9C-47DB-80C9-934D313E99CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4351CE-7C9C-47DB-80C9-934D313E99CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
